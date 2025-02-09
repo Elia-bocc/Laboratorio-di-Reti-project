@@ -1,1 +1,7 @@
-# Laboratorio-di-Reti-project
+# Laboratorio di Reti Project
+
+Progetto svolto per un esame universitario.
+
+## Author 
+
+Elia Boccini eliaboccini@gmail.com
